@@ -36,7 +36,9 @@ Note: The code references external resources such as font files and images. Make
 Open index.html in your web browser.
 
 ### DEMO IMAGE
-C:/Users/vrana/OneDrive/Desktop/Downloads/WhatsApp%20Image%202024-07-03%20at%2010.17.58_233801ea.jpg
+![WhatsApp Image 2024-07-03 at 10 17 58_233801ea](https://github.com/Shri-Vivek-Rana/Amazone-website/assets/170073161/62ea7fa9-0da0-4c15-908c-57aa5bccdfde)
+
+![WhatsApp Image 2024-07-03 at 10 18 37_cf144152](https://github.com/Shri-Vivek-Rana/Amazone-website/assets/170073161/5f4aa249-2940-4523-b2e7-d772ee0ed074)
 
 ### Contributing
 Contributions are welcome! If you want to contribute to this project, please fork the repository and submit a pull request with your changes.
