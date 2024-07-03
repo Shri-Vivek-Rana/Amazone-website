@@ -45,3 +45,8 @@ Contributions are welcome! If you want to contribute to this project, please for
 
 ### License
 This project is licensed under the MIT License - see the LICENSE file for details.
+
+### AUTHORE
+*NAME*: VIVEK SINGH RANA
+*EMAIL*: vrana2359@gmail.com
+
