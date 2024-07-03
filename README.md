@@ -36,6 +36,7 @@ Note: The code references external resources such as font files and images. Make
 Open index.html in your web browser.
 
 ### DEMO IMAGE
+C:/Users/vrana/OneDrive/Desktop/Downloads/WhatsApp%20Image%202024-07-03%20at%2010.17.58_233801ea.jpg
 
 ### Contributing
 Contributions are welcome! If you want to contribute to this project, please fork the repository and submit a pull request with your changes.
